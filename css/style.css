@@ -4,12 +4,15 @@ body {
 h1 {
   font-size: large;
   color: #bb42e3;
+  font-family: 'Open Sans', sans-serif;
 }
 h2 {
   font-size: medium;
   color: #bb42e3;
+  font-family: 'Abyssinica SIL', serif;
 }
 p {
   font-size: medium;
   color: #3c51fa;
+  font-family: 'Open Sans', sans-serif;
 }
